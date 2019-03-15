@@ -1,1 +1,0 @@
-# Intermediary Model Checkpoints
